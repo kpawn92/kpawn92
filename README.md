@@ -50,7 +50,7 @@ Mi enfoque principal está en la **arquitectura de software** y la **orquestaci�
 
 ## 🌐 Conecta conmigo
 - GitHub: [github.com/kpawn92](https://github.com/kpawn92)  
-- LinkedIn: [[linkedin.com/in/tuusuario](https://www.linkedin.com/public-profile/settings)](#)  
+- LinkedIn: [[linkedin.com/in/kpawn92](https://www.linkedin.com/public-profile/settings)](#)  
 - Correo: hap921020@gmail.com  
 
 ---
